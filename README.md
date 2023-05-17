@@ -14,7 +14,7 @@ The install the requirements
 
     pip install -r requirements.txt
 ## Download the data
-Follow [DATASETS.md](DATASETS.md) to install the datasets.
+Follow [DATASETS.md](datasets/DATASETS.md) to install the datasets.
 
 
 ## Run the experiments
