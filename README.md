@@ -5,6 +5,7 @@ This repository is the official implementation of **Few and Fewer: Learning Bett
 ![alt text](https://github.com/RafLaf/Few-and-Fewer/blob/main/supp_mat/algo.png?raw=true)
 ![alt text](https://github.com/RafLaf/Few-and-Fewer/blob/main/supp_mat/top_m.png?raw=true)
 ![alt text](https://github.com/RafLaf/Few-and-Fewer/blob/main/supp_mat/segm.png?raw=true)
+![alt text](https://github.com/RafLaf/Few-and-Fewer/blob/main/supp_mat/lr_instead_of_ncm.png?raw=true)
 
 
 ## How to install 
