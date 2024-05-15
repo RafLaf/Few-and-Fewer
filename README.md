@@ -1,7 +1,11 @@
 # Few and Fewer: Learning Better from Few Examples Using Fewer Base Classes
-This repository is the official implementation of [Few and Fewer: Learning Better from Few Examples Using Fewer Base Classes]().
+This repository is the official implementation of **Few and Fewer: Learning Better from Few Examples Using Fewer Base Classes.**
 
-This paper is under review for NeurIPS 2023.
+## Supplementary material
+![alt text](https://github.com/RafLaf/Few-and-Fewer/blob/main/supp_mat/algo.png?raw=true)
+![alt text](https://github.com/RafLaf/Few-and-Fewer/blob/main/supp_mat/top_m.png?raw=true)
+![alt text](https://github.com/RafLaf/Few-and-Fewer/blob/main/supp_mat/segm.png?raw=true)
+
 
 ## How to install 
 This code uses the task2vac, to install it run the following commands:
